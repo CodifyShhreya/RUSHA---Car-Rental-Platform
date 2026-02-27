@@ -1,4 +1,4 @@
-# Car Rental 
+# RUSHA Car Rental Platform 
 
 Welcome to the Car Rental  project! This application allows users to rent cars easily and efficiently. It provides a user-friendly interface for both customers and administrators to manage car rentals.
 
